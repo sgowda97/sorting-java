@@ -1,12 +1,12 @@
 # sorting-java
-Different kinds of sorting programs in Java
+Different kinds of sorting programs in Java <br />
 
 
-HOW-TO:
+HOW-TO:<br />
 
-*) Make sure JDK is installed.
-*) After downloading, go into the directory of the sorting program you'd like to use
-*) Assuming you want to use bubble sort, while in the directory in CLI, type:
-    -> javac BubbleSort.java
-    -> java BubbleSort
+*) Make sure JDK is installed.<br />
+*) After downloading, go into the directory of the sorting program you'd like to use<br />
+*) Assuming you want to use bubble sort, while in the directory in CLI, type:<br />
+    -> javac BubbleSort.java<br />
+    -> java BubbleSort<br />
 *) Follow the instructions.
